@@ -46,7 +46,6 @@ if __name__ == "__main__":
 
   try:
     url = youtube_search(args)
-    c = webbrowser.get('firefox')
-    c.open(url)
+    webbrowser.open(url)
   except HttpError as e:
     print("An HTTP error %d occurred:\n%s" % (e.resp.status, e.content))
