@@ -1,0 +1,19 @@
+{
+  "name": "marcel_tube",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evayse/marcel.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/evayse/marcel/issues"
+  },
+  "homepage": "https://github.com/evayse/marcel#readme"
+}
